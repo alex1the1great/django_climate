@@ -4,14 +4,14 @@ Django starter project to build production ready websites with powerful tools. :
 ### Installation
 ```shell
 $ git clone 
-$ cd django_climate
+$ cd djangoplate
 ```
 
 ### Pipenv
 ```shell
 $ pipenv install
 $ pipenv shell
-(django_climate) $ python manage.py runserver
+(djangoplate) $ python manage.py runserver
 # Go to http://127.0.0.1:8000/
 ```
 
