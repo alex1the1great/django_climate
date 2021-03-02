@@ -10,7 +10,7 @@ WORKDIR /project
 
 # Install dependencies
 RUN pip install pipenv
-COPY Pipfile Pipefile.lock /project/
+COPY Pipfile Pipfile.lock /project/
 RUN pipenv install --system
 
 # Copy project
