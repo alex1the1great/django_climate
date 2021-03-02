@@ -15,8 +15,6 @@ $ pipenv install
 $ pipenv shell
 (djangoplate) $ python -c "from django.core.management.utils import get_random_secret_key; print(get_random_secret_key())"
 # Copy newly generated secret key in .env file.
-(djangoplate) $ python manage.py runserver
-# Go to http://127.0.0.1:8000/
 ```
 
 ### Docker
