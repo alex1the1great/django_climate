@@ -3,8 +3,9 @@ Django starter project to build production ready websites with powerful tools. :
 
 ### Installation
 ```shell
-$ git clone 
+$ git clone https://github.com/alex1the1great/djangoplate.git
 $ cd djangoplate
+$ touch .env
 ```
 
 ### Pipenv
