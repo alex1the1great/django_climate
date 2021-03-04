@@ -7,6 +7,7 @@ $ git clone https://github.com/alex1the1great/djangoplate.git
 $ cd djangoplate
 $ touch .env
 $ cp .env.template .env
+$ pip install pipenv
 ```
 
 ### Pipenv
